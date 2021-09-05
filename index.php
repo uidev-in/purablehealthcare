@@ -24,8 +24,7 @@
                                          <p data-animation="fadeInUp" data-delay=".6s">Suspendisse mollis cursus urna at malesuada. Morbi elementum dignissim nibh vitae egestas mauris quis dolor quis volutpat.</p>
                                          
                                          <div class="slider-btn mt-40 mb-100">                                          
-                                             <a href="#" class="btn ss-btn active mr-15" data-animation="fadeInRight" data-delay=".8s">Our Services</a>
-                                               <a href="https://www.youtube.com/watch?v=vKSA_idPZkc" class="video-i popup-video" data-animation="fadeInUp" data-delay=".8s" style="animation-delay: 0.8s;" tabindex="0"><i class="fas fa-play"></i> Our Video!</a>	
+                                             <a href="#" class="btn ss-btn active mr-15" data-animation="fadeInRight" data-delay=".8s">Enquire Now</a>
                                          </div> 
                                                                
                                      </div>
@@ -191,42 +190,23 @@
                     <div class="row">
                          <div class="col-lg-12 col-md-12">     
                              <div class="product-active">
-                               <div class="col-lg-4 col-md-6">
-                                        <div class="product mb-40">
-                                            <div class="product__img">
-                                                <a href="shop-details.html"><img src="img/shop/img4.jpg" alt=""></a>
-                                                <div class="product-action text-center">
-                                                   
-                                                    <a href="shop-details.html">Add Cart</a>
-                                                    
-                                                </div>
-                                            </div>
-                                            <div class="product__content text-center pt-30">
-                                               
-                                                <h4 class="pro-title"><a href="shop-details.html">100% Whey Protein</a></h4>
-                                                <div class="price">
-                                                    <span>$95.00</span>
-                                                    <span class="old-price">$120.00</span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
+                               
                                    <div class="col-lg-4 col-md-6">
                                         <div class="product mb-40">
                                             <div class="product__img">
                                                 <a href="shop-details.html"><img src="img/shop/img5.jpg" alt=""></a>
                                                 <div class="product-action text-center">
                                                    
-                                                    <a href="shop-details.html">Add Cart</a>
+                                                    <a href="shop-details.html">Read More</a>
                                                     
                                                 </div>
                                             </div>
                                             <div class="product__content text-center pt-30">
                                                 
-                                                <h4 class="pro-title"><a href="shop-details.html">100% Whey Protein</a></h4>
+                                                <h4 class="pro-title"><a href="shop-details.html">Puralbumen (Junior) Powder</a></h4>
                                                 <div class="price">
-                                                    <span>$95.00</span>
-                                                    <span class="old-price">$120.00</span>
+                                                    <span> ₹4559.00</span>
+                                                    <span class="old-price"> ₹4999.00</span>
                                                 </div>
                                             </div>
                                         </div>
@@ -237,16 +217,16 @@
                                                 <a href="shop-details.html"><img src="img/shop/img6.jpg" alt=""></a>
                                                 <div class="product-action text-center">
                                                    
-                                                    <a href="shop-details.html">Add Cart</a>
+                                                    <a href="shop-details.html">Read More</a>
                                                     
                                                 </div>
                                             </div>
                                             <div class="product__content text-center pt-30">
                                                
-                                                <h4 class="pro-title"><a href="shop-details.html">100% Whey Protein</a></h4>
+                                                <h4 class="pro-title"><a href="shop-details.html">Puralbumen Powder</a></h4>
                                                 <div class="price">
-                                                    <span>$95.00</span>
-                                                    <span class="old-price">$120.00</span>
+                                                    <span> ₹995.00</span>
+                                                    <span class="old-price"> ₹1499.00</span>
                                                 </div>
                                             </div>
                                         </div>
@@ -257,16 +237,16 @@
                                                 <a href="shop-details.html"><img src="img/shop/img7.jpg" alt=""></a>
                                                 <div class="product-action text-center">
                                                    
-                                                    <a href="shop-details.html">Add Cart</a>
+                                                    <a href="shop-details.html">Read More</a>
                                                     
                                                 </div>
                                             </div>
                                             <div class="product__content text-center pt-30">
                                             
-                                                <h4 class="pro-title"><a href="shop-details.html">100% Whey Protein</a></h4>
+                                                <h4 class="pro-title"><a href="shop-details.html">Purwhey Powder</a></h4>
                                                 <div class="price">
-                                                    <span>$95.00</span>
-                                                    <span class="old-price">$120.00</span>
+                                                    <span> ₹1499.00</span>
+                                                    <span class="old-price"> ₹1999.00</span>
                                                 </div>
                                             </div>
                                         </div>
@@ -277,16 +257,16 @@
                                                 <a href="shop-details.html"><img src="img/shop/img4.jpg" alt=""></a>
                                                 <div class="product-action text-center">
                                                    
-                                                    <a href="shop-details.html">Add Cart</a>
+                                                    <a href="shop-details.html">Read More</a>
                                                     
                                                 </div>
                                             </div>
                                             <div class="product__content text-center pt-30">
                                                 
-                                                <h4 class="pro-title"><a href="shop-details.html">100% Whey Protein</a></h4>
+                                                <h4 class="pro-title"><a href="shop-details.html">Neofeed Powder</a></h4>
                                                 <div class="price">
-                                                    <span>$95.00</span>
-                                                    <span class="old-price">$120.00</span>
+                                                    <span> ₹1950.00</span>
+                                                    <span class="old-price"> ₹2500.00</span>
                                                 </div>
                                             </div>
                                         </div>
@@ -579,27 +559,50 @@
 					<div class="row align-items-center">
 						<div class="col-lg-12">
                             <div class="contact-bg02 wow fadeInLeft  animated">
-                           
-						<form action="#" class="contact-form ">
+                            <?php 
+								$Msg = "";
+								if(isset($_GET['error']))
+								{
+									$Msg = " Please Fill in the Blanks ";
+									echo '<div class="alert alert-danger">'.$Msg.'</div>';
+								}
+
+								if(isset($_GET['success']))
+								{
+									$Msg = " Your Message Has Been Sent ";
+									echo '<div class="alert alert-success">'.$Msg.'</div>';
+								}
+
+							?>  
+						<form method="post" action="mail.php" class="contact-form">
 							<div class="row">
                             <div class="col-lg-6">
                                 <div class="contact-field p-relative c-name mb-20">                                    
-                                    <input type="text" placeholder="First Name">
+                                    <input type="text" placeholder="First Name" name="first_name">
                                 </div>                               
                             </div>
 							<div class="col-lg-6">                               
                                 <div class="contact-field p-relative c-email mb-20">                                    
-                                    <input type="text" placeholder="Last Name">
+                                    <input type="text" placeholder="Last Name" name="last_name">
                                 </div>                                
                             </div>
 							<div class="col-lg-6">                               
                                 <div class="contact-field p-relative c-subject mb-20">                                   
-                                    <input type="text" placeholder="Eamil">
+                                    <input type="text" placeholder="Eamil" name="email">
                                 </div>
                             </div>		
                             <div class="col-lg-6">                               
                                 <div class="contact-field p-relative c-subject mb-20">                                   
-                                    <input type="text" placeholder="Phone No.">
+                                    <input type="text" placeholder="Phone No." name="phone">
+                                </div>
+                            </div>
+                            <div class="col-lg-12">                               
+                                <div class="contact-field p-relative c-subject mb-20">                                   
+                                    <select class="contact-field p-relative c-subject mb-20">
+                                        <option value="" selected>Select Purpose of Contact</option>
+                                        <option value="Product">Product</option>
+                                        <option value="Other">Other</option>
+                                    </select>
                                 </div>
                             </div>	
                             <div class="col-lg-12">
@@ -608,7 +611,7 @@
                                 </div>
                                 <div class="slider-btn text-center">                                          
                                             <button class="btn ss-btn active" data-animation="fadeInRight" data-delay=".8s"> Submint Now</button>				
-                                        </div>                             
+                                </div>                             
                             </div>
                             </div>
                         
