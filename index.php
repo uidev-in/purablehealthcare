@@ -281,50 +281,40 @@
             </section>
             <!-- product-area-end -->
 
-             <!-- counter-area -->
-             <div class="counter-area pt-120 pb-90" style="background-image:url(img/bg/count-bg.jpg)">
+            <!-- brand-area -->
+            <div class="brand-area pt-60 pb-60" style="background:url(img/bg/client-bg-log.png);background-repeat: no-repeat;background-size: cover;">
                 <div class="container">
-                    <div class="row">
-                        <div class="col-lg-3 col-sm-6">
-                            <div class="single-counter text-center mb-30 wow fadeInUp animated" data-animation="fadeInDown animated" data-delay=".2s">
-                                <div class="counter p-relative">
-                                    <span class="count">2543</span>
-                                    <small>+</small>
-                                </div>
-                                <p>Project Complate</p>
+                    <div class="row brand-active">
+                        <div class="col-xl-3">
+                            <div class="single-brand">
+                                <img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/Fortis_Healthcare_logo.svg/1200px-Fortis_Healthcare_logo.svg.png" alt="img">
                             </div>
                         </div>
-                        <div class="col-lg-3 col-sm-6">
-                            <div class="single-counter text-center mb-30 wow fadeInUp animated" data-animation="fadeInDown animated" data-delay=".2s">
-                                <div class="counter p-relative">
-                                    <span class="count">6548</span>
-                                    <small>+</small>
-                                </div>
-                                <p>Win Awards</p>
+                        <div class="col-xl-3">
+                            <div class="single-brand">
+                                 <img src="https://mumbai.apollohospitals.com/wp-content/uploads/2021/08/logo.png" alt="img">
                             </div>
                         </div>
-                        <div class="col-lg-3 col-sm-6">
-                            <div class="single-counter text-center mb-30 wow fadeInUp animated" data-animation="fadeInDown animated" data-delay=".2s">
-                                <div class="counter p-relative">
-                                    <span class="count">505</span>
-                                    <small>+</small>
-                                </div>
-                                <p>Expert Team Member</p>
+                        <div class="col-xl-3">
+                            <div class="single-brand">
+                                 <img src="https://covid.aiims.edu/wp-content/uploads/2020/03/AIIMS_Logo-White.png" alt="img" style="width:100px">
                             </div>
                         </div>
-                        <div class="col-lg-3 col-sm-6">
-                            <div class="single-counter text-center mb-30 wow fadeInUp animated" data-animation="fadeInDown animated" data-delay=".2s">
-                                <div class="counter p-relative">
-                                    <span class="count">85</span>
-                                    <small>+</small>
-                                </div>
-                                <p>Years Of Experience</p>
+                        <div class="col-xl-3">
+                            <div class="single-brand">
+                                  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Massachusetts_General_Hospital_logo.svg/1200px-Massachusetts_General_Hospital_logo.svg.png" alt="img" style="width:100px">
                             </div>
                         </div>
+                         <div class="col-xl-3">
+                            <div class="single-brand">
+                                  <img src="https://seeklogo.com/images/B/batra-hospital-logo-264BC7BA9B-seeklogo.com.png" alt="img" style="width:140px">
+                            </div>
+                        </div>
+                        
                     </div>
                 </div>
             </div>
-            <!-- counter-area-end -->
+            <!-- brand-area-end -->
 
             <!-- ingredients-area -->
             <section id="introduction" class="faq-area pt-100 pb-100">             
@@ -511,40 +501,7 @@
             </section>
             <!-- testimonial-area-end -->
             
-            <!-- brand-area -->
-            <!-- <div class="brand-area pt-60 pb-60" style="background:url(img/bg/client-bg-log.png);background-repeat: no-repeat;background-size: cover;">
-                <div class="container">
-                    <div class="row brand-active">
-                        <div class="col-xl-3">
-                            <div class="single-brand">
-                                <img src="img/brand/c-logo1.png" alt="img">
-                            </div>
-                        </div>
-                        <div class="col-xl-3">
-                            <div class="single-brand">
-                                 <img src="img/brand/c-logo2.png" alt="img">
-                            </div>
-                        </div>
-                        <div class="col-xl-3">
-                            <div class="single-brand">
-                                 <img src="img/brand/c-logo3.png" alt="img">
-                            </div>
-                        </div>
-                        <div class="col-xl-3">
-                            <div class="single-brand">
-                                  <img src="img/brand/c-logo4.png" alt="img">
-                            </div>
-                        </div>
-                         <div class="col-xl-3">
-                            <div class="single-brand">
-                                  <img src="img/brand/c-logo4.png" alt="img">
-                            </div>
-                        </div>
-                        
-                    </div>
-                </div>
-            </div> -->
-            <!-- brand-area-end -->
+            
             <!-- contact-area -->
             <section id="contact" class="contact-area contact-bg pt-100 pb-100 p-relative fix" style="background:#fff;">
                   <div class="container">
@@ -564,6 +521,11 @@
 								if(isset($_GET['error']))
 								{
 									$Msg = " Please Fill in the Blanks ";
+									echo '<div class="alert alert-danger">'.$Msg.'</div>';
+								}
+								if(isset($_GET['error_mail']))
+								{
+									$Msg = " Mail Server error..Contact Server admin ";
 									echo '<div class="alert alert-danger">'.$Msg.'</div>';
 								}
 
@@ -610,7 +572,7 @@
                                     <textarea name="message" id="message" cols="30" rows="10" placeholder="Write comments"></textarea>
                                 </div>
                                 <div class="slider-btn text-center">                                          
-                                            <button class="btn ss-btn active" data-animation="fadeInRight" data-delay=".8s"> Submint Now</button>				
+                                            <button type="submit" name ="submit" class="btn ss-btn active" data-animation="fadeInRight" data-delay=".8s"> Submint Now</button>				
                                 </div>                             
                             </div>
                             </div>

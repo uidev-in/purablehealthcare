@@ -1,19 +1,19 @@
 <?php 
-
-    if(isset($_POST['btn-send']))
+print_r($_REQUEST);
+    if(isset($_POST['submit']))
     {
-        
+    //die('if');    
+    //Array ( [first_name] => sharwan [last_name] => kumar [email] => sharwangkp53@gmail.com [phone] => +919968934406 [message] => demo code [submit] => ) if
        $FirstName = $_POST['first_name'];
-	   $LastName = $_POST['last_name'];
+       $LastName = $_POST['last_name'];
        $Email = $_POST['email'];
        $Contact = $_POST['phone'];
        $Msg = $_POST['message'];
-       
-       
 
        if(empty($FirstName) || empty($LastName) || empty($Email) || empty($Contact) || empty($Msg))
        {
-           header('location:https://purablehealthcare.com/beta/index.php?error');
+//           header('location:https://purablehealthcare.com/beta/index.php?error');
+           header('location:http://localhost/purablehealthcare/index.php?error');
        }
        else
        {
@@ -35,12 +35,18 @@
            if(mail($to,$subject,$message,$headers))
            {
              
-               header("location:https://purablehealthcare.com/beta/index.php?success");
+//               header("location:https://purablehealthcare.com/beta/index.php?success");
+               header("location:http://localhost/purablehealthcare/index.php?success");
+           }else{
+//               header('location:https://purablehealthcare.com/beta/index.php?error');
+                header('location:http://localhost/purablehealthcare/index.php?error_mail');
            }
        }
     }
     else
     {
-        header("location:https://purablehealthcare.com/beta/index.php");
+        //die('else');
+//        header("location:https://purablehealthcare.com/beta/index.php");
+        header("location:http://localhost/purablehealthcare/index.php");
     }
 ?>
