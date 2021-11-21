@@ -424,7 +424,7 @@
             <!-- ingredients-area-end -->   
 
              <!-- testimonial-area -->
-             <section class="testimonial-area pt-100 pb-100 p-relative" style="background-image:url(img/testimonial/test-bg.png); background-repeat: no-repeat; background-size: cover;background-position: center;">
+             <section class="testimonial-area pt-100 pb-100 p-relative" style="background-image:url(img/testimonial/testimonial-bg.png); background-repeat: no-repeat; background-size: cover;background-position: center;">
                 
                 <div class="container">
                     <div class="row">

@@ -38,7 +38,7 @@
                         <div class="row align-items-center">
                             <div class="col-xl-2 col-lg-2">
                                 <div class="logo">
-                                    <a href="index.html"><img src="img/logo/purablelogo.png" alt="logo"></a>
+                                    <a href="index.php"><img src="img/logo/purablelogo.png" alt="logo"></a>
                                 </div>
                             </div>
                             <div class="col-xl-10 col-lg-10">
