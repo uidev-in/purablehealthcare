@@ -21,10 +21,9 @@
                                  <div class="col-lg-7">
                                      <div class="slider-content s-slider-content text2">
                                           <h2 data-animation="fadeInUp" data-delay=".4s">Build Your <span>Perfect Body</span> With Us</h2>
-                                         <p data-animation="fadeInUp" data-delay=".6s">Suspendisse mollis cursus urna at malesuada. Morbi elementum dignissim nibh vitae egestas mauris quis dolor quis volutpat.</p>
-                                         
+                                         <p data-animation="fadeInUp" data-delay=".6s">Let food be thy medicine and medicine be thy food</p>
                                          <div class="slider-btn mt-40 mb-100">                                          
-                                             <a href="#" class="btn ss-btn active mr-15" data-animation="fadeInRight" data-delay=".8s">Enquire Now</a>
+                                             <a href="#contact" class="btn ss-btn active mr-15" data-animation="fadeInRight" data-delay=".8s">Enquire Now</a>
                                          </div> 
                                                                
                                      </div>
@@ -58,7 +57,7 @@
                                
                                 <div class="second-services-content">
                                     <h5>FREE SHIPPING</h5>       
-                                    <p>Bliquam euismod neque vel leo pellentesque</p>
+                                    <!-- <p>Bliquam euismod neque vel leo pellentesque</p> -->
                                 </div>
 								
                             </div>
@@ -71,7 +70,7 @@
                                
                                 <div class="second-services-content">
                                     <h5>money back guarantee</h5>       
-                                    <p>Bliquam euismod neque vel leo pellentesque</p>
+                                    <!-- <p>Bliquam euismod neque vel leo pellentesque</p> -->
                                 </div>
 								
                             </div>
@@ -83,7 +82,7 @@
                                 </div>
                                  <div class="second-services-content">
                                     <h5>gift discount</h5>       
-                                    <p>Bliquam euismod neque vel leo pellentesque</p>
+                                    <!-- <p>Bliquam euismod neque vel leo pellentesque</p> -->
                                 </div>
 								
                             </div>
@@ -194,19 +193,19 @@
                                    <div class="col-lg-4 col-md-6">
                                         <div class="product mb-40">
                                             <div class="product__img">
-                                                <a href="shop-details.html"><img src="img/shop/img5.jpg" alt=""></a>
+                                                <a href="puralbumen-product-details.php"><img src="img/shop/img5.jpg" alt=""></a>
                                                 <div class="product-action text-center">
                                                    
-                                                    <a href="shop-details.html">Read More</a>
+                                                    <a href="puralbumen-product-details.php">Read More</a>
                                                     
                                                 </div>
                                             </div>
                                             <div class="product__content text-center pt-30">
                                                 
-                                                <h4 class="pro-title"><a href="shop-details.html">Puralbumen (Junior) Powder</a></h4>
+                                                <h4 class="pro-title"><a href="puralbumen-product-details.php">Puralbumen Powder</a></h4>
                                                 <div class="price">
-                                                    <span> ₹4559.00</span>
-                                                    <span class="old-price"> ₹4999.00</span>
+                                                    <span> ₹1399.00</span>
+                                                    <!-- <span class="old-price"> ₹4999.00</span> -->
                                                 </div>
                                             </div>
                                         </div>
@@ -214,19 +213,19 @@
                                    <div class="col-lg-4 col-md-6">
                                         <div class="product mb-40">
                                             <div class="product__img">
-                                                <a href="shop-details.html"><img src="img/shop/img6.jpg" alt=""></a>
+                                                <a href="neofeed-product-details.php"><img src="img/shop/img6.jpg" alt=""></a>
                                                 <div class="product-action text-center">
                                                    
-                                                    <a href="shop-details.html">Read More</a>
+                                                    <a href="neofeed-product-details.php">Read More</a>
                                                     
                                                 </div>
                                             </div>
                                             <div class="product__content text-center pt-30">
                                                
-                                                <h4 class="pro-title"><a href="shop-details.html">Puralbumen Powder</a></h4>
+                                                <h4 class="pro-title"><a href="neofeed-product-details.php">Neofeed Powder</a></h4>
                                                 <div class="price">
-                                                    <span> ₹995.00</span>
-                                                    <span class="old-price"> ₹1499.00</span>
+                                                    <span> ₹1199.00</span>
+                                                    <!-- <span class="old-price"> ₹1199.00</span> -->
                                                 </div>
                                             </div>
                                         </div>
@@ -234,24 +233,24 @@
                                    <div class="col-lg-4 col-md-6">
                                         <div class="product mb-40">
                                             <div class="product__img">
-                                                <a href="shop-details.html"><img src="img/shop/img7.jpg" alt=""></a>
+                                                <a href="purwhey-products-details.php"><img src="img/shop/img7.jpg" alt=""></a>
                                                 <div class="product-action text-center">
                                                    
-                                                    <a href="shop-details.html">Read More</a>
+                                                    <a href="purwhey-product-details.php">Read More</a>
                                                     
                                                 </div>
                                             </div>
                                             <div class="product__content text-center pt-30">
                                             
-                                                <h4 class="pro-title"><a href="shop-details.html">Purwhey Powder</a></h4>
+                                                <h4 class="pro-title"><a href="purwhey-product-details.php">Purwhey Powder</a></h4>
                                                 <div class="price">
-                                                    <span> ₹1499.00</span>
-                                                    <span class="old-price"> ₹1999.00</span>
+                                                    <span> ₹1199.00</span>
+                                                    <!-- <span class="old-price"> ₹1999.00</span> -->
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
-                                   <div class="col-lg-4 col-md-6">
+                                  <!--  <div class="col-lg-4 col-md-6">
                                         <div class="product mb-40">
                                             <div class="product__img">
                                                 <a href="shop-details.html"><img src="img/shop/img4.jpg" alt=""></a>
@@ -270,7 +269,7 @@
                                                 </div>
                                             </div>
                                         </div>
-                                    </div>
+                                    </div> -->
                              
                              </div>
                          
@@ -558,7 +557,7 @@
                                     <input type="text" placeholder="Phone No." name="phone">
                                 </div>
                             </div>
-                            <div class="col-lg-12">                               
+                            <!-- <div class="col-lg-12">                               
                                 <div class="contact-field p-relative c-subject mb-20">                                   
                                     <select class="contact-field p-relative c-subject mb-20" name="purpose" required>
                                         <option value="" selected>Select Purpose of Contact</option>
@@ -566,7 +565,7 @@
                                         <option value="Other">Other</option>
                                     </select>
                                 </div>
-                            </div>	
+                            </div> -->	
                             <div class="col-lg-12">
                                 <div class="contact-field p-relative c-message mb-45">                                  
                                     <textarea name="message" id="message" cols="30" rows="10" placeholder="Write comments"></textarea>

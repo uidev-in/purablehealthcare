@@ -49,10 +49,10 @@
                                             <li class="has-sub">
 												<a href="index.php">Home</a>
 											</li>
-                                            <li><a href="#ingredient">About Us</a></li>
-                                            <li><a href="#ingredient">Product</a></li>
-                                            <li><a href="#contact">Contact</a></li>                                               
-                                             <li><a href="#" class="btn ss-btn">Purchase Now</a></li>                                
+                                            <li><a href="#ingredient">Ingredients</a></li>
+                                            <li><a href="#supplement">Products</a></li>
+                                            <!-- <li><a href="#contact">Contact</a></li>  -->                                              
+                                             <li><a href="#contact" class="btn ss-btn">Purchase Now</a></li>                                
                                         </ul>
                                     </nav>
                                 </div>
