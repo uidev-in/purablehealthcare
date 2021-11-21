@@ -47,12 +47,12 @@
                                     <nav id="mobile-menu">
                                          <ul>
                                             <li class="has-sub">
-												<a href="#">Home</a>
+												<a href="index.php">Home</a>
 											</li>
                                             <li><a href="#ingredient">About Us</a></li>
-                                            <li><a href="#supplement">Product</a></li>
+                                            <li><a href="#ingredient">Product</a></li>
                                             <li><a href="#contact">Contact</a></li>                                               
-                                             <li><a href="#contact" class="btn ss-btn">Purchase Now</a></li>                                
+                                             <li><a href="#" class="btn ss-btn">Purchase Now</a></li>                                
                                         </ul>
                                     </nav>
                                 </div>

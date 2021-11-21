@@ -1,5 +1,5 @@
 <?php 
-print_r($_REQUEST);
+//print_r($_REQUEST);
     if(isset($_POST['submit']))
     {
     //die('if');    
@@ -9,11 +9,12 @@ print_r($_REQUEST);
        $Email = $_POST['email'];
        $Contact = $_POST['phone'];
        $Msg = $_POST['message'];
+       $Purpose =$_POST['purpose'];
 
-       if(empty($FirstName) || empty($LastName) || empty($Email) || empty($Contact) || empty($Msg))
+       if(empty($FirstName) || empty($LastName) || empty($Email) || empty($Contact) || empty($Msg) || empty($Purpose))
        {
-//           header('location:https://purablehealthcare.com/beta/index.php?error');
-           header('location:http://localhost/purablehealthcare/index.php?error');
+          header('location:https://purablehealthcare.com/beta/index.php?error');
+           //header('location:http://localhost/purablehealthcare/index.php?error');
        }
        else
        {
@@ -24,6 +25,7 @@ print_r($_REQUEST);
             $message .= "<tr style='background: #eee;'><td><strong>Name:</strong> </td><td>" .$FirstName. " ,".$LastName."</td></tr>";
             $message .= "<tr style='background: #eee;'><td><strong>Email:</strong> </td><td>" .$Email. "</td></tr>";
             $message .= "<tr style='background: #eee;'><td><strong>Contact:</strong> </td><td>" .$Contact. "</td></tr>";
+            $message .= "<tr style='background: #eee;'><td><strong>Purpose:</strong> </td><td>" .$Purpose. "</td></tr>";
             $message .= "<tr style='background: #eee;'><td><strong>Message:</strong> </td><td>" .$Msg. "</td></tr>";
             $message .= "</table>";
             $message .= "</body></html>";
@@ -35,18 +37,18 @@ print_r($_REQUEST);
            if(mail($to,$subject,$message,$headers))
            {
              
-//               header("location:https://purablehealthcare.com/beta/index.php?success");
-               header("location:http://localhost/purablehealthcare/index.php?success");
+             header("location:https://purablehealthcare.com/beta/index.php?success");
+               //header("location:http://localhost/purablehealthcare/index.php?success");
            }else{
-//               header('location:https://purablehealthcare.com/beta/index.php?error');
-                header('location:http://localhost/purablehealthcare/index.php?error_mail');
+               header('location:https://purablehealthcare.com/beta/index.php?error');
+                //header('location:http://localhost/purablehealthcare/index.php?error_mail');
            }
        }
     }
     else
     {
         //die('else');
-//        header("location:https://purablehealthcare.com/beta/index.php");
-        header("location:http://localhost/purablehealthcare/index.php");
+        header("location:https://purablehealthcare.com/beta/index.php");
+        //header("location:http://localhost/purablehealthcare/index.php");
     }
 ?>

@@ -560,7 +560,7 @@
                             </div>
                             <div class="col-lg-12">                               
                                 <div class="contact-field p-relative c-subject mb-20">                                   
-                                    <select class="contact-field p-relative c-subject mb-20">
+                                    <select class="contact-field p-relative c-subject mb-20" name="purpose" required>
                                         <option value="" selected>Select Purpose of Contact</option>
                                         <option value="Product">Product</option>
                                         <option value="Other">Other</option>
