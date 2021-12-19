@@ -146,7 +146,7 @@
                                         <li>» FOS is to promote the growth of beneficial bacteria to support got health </li>
                                         <li>» Vitamins and Minerals speed up recovery and fullfills increased nutritional needs</li>
                                         <li>» Low GI Carbohydrate is safe for diabetic patients</li>
-                                        
+                                        <li>» Purwhey is free from Trans fat, Cholesterol, Lactose and Gluten</li>
                                     </ul>
                                         
                                 </div>

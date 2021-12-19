@@ -154,22 +154,162 @@
                                 <div class="tab-pane fade" id="id-add" role="tabpanel" aria-labelledby="id-add-in">
                                     <div class="additional-info">
                                         <div class="table-responsive">
-                                            <h4>Additional information</h4>
-                                            <table class="table">
-                                                <tbody>
-                                                    <tr>
-                                                        <th>Weight</th>
-                                                        <td class="product_weight">1.4 oz</td>
-                                                    </tr>
-                                                    <tr>
-                                                        <th>Dimensions</th>
-                                                        <td class="product_dimensions">62 × 56 × 12 in</td>
-                                                    </tr>
-                                                    <tr>
-                                                        <th>Size</th>
-                                                        <td class="product_dimensions">XL, XXL, LG, SM, MD</td>
-                                                    </tr>
-                                                </tbody>
+                                         <h4>Nutritional Information per 100gm</h4>
+                                            <table class="table table table-bordered table-hover text-center">
+                                            <thead class="thead-dark">
+                                                <tr>
+                                                <th scope="col">Nutrients</th>
+                                                <th scope="col">Per 100 Gram</th>
+                                                <th scope="col">Per Serving (10gm)</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr>
+                                                <td>Energy</td>
+                                                <td>394 kcal</td>
+                                                <td>39.40 kcal</td>
+                                                </tr>
+                                                <tr>
+                                                <td>Carbohydrate</td>
+                                                <td>69.09 g</td>
+                                                <td>6.90 kcal</td>
+                                                </tr>
+                                                <tr>
+                                                <td>Protein (Nx6.25)</td>
+                                                <td>11.63 g</td>
+                                                <td>1.16 g</td>
+                                                </tr>
+                                                <tr>
+                                                <td>Fat</td>
+                                                <td>8.05 g</td>
+                                                <td>0.80 g</td>
+                                                </tr>
+                                                <tr>
+                                                <td>Calcium</td>
+                                                <td>409.20 mg</td>
+                                                <td>41 mg</td>
+                                                </tr>
+                                                <tr>
+                                                <td>Choline</td>
+                                                <td>254.75 mg</td>
+                                                <td>25 mg</td>
+                                                </tr>
+                                                <tr>
+                                                <td>Phosphorous</td>
+                                                <td>206 mg</td>
+                                                <td>20 mg</td>
+                                                </tr>
+                                                <tr>
+                                                <td>Vitamin C</td>
+                                                <td>82.62 mg</td>
+                                                <td>8 mg</td>
+                                                </tr>
+                                                <tr>
+                                                <td>Magnesium</td>
+                                                <td>61.74 mg</td>
+                                                <td>6 mg</td>
+                                                </tr>
+                                                <tr>
+                                                <td>Vitamin E</td>
+                                                <td>8.29 mg</td>
+                                                <td>0.80 mg</td>
+                                                </tr>
+                                                <tr>
+                                                <td>Iron</td>
+                                                <td>5.50 mg</td>
+                                                <td>0.55 mg</td>
+                                                </tr>
+                                                <tr>
+                                                <td>Zinc</td>
+                                                <td>4.06 mg</td>
+                                                <td>0.40 mg</td>
+                                                </tr>
+                                                <tr>
+                                                <td>Vitamin B5</td>
+                                                <td>3.51 mg</td>
+                                                <td>0.35 mg</td>
+                                                </tr>
+                                                <tr>
+                                                <td>Vitamin B2</td>
+                                                <td>0.62 mg</td>
+                                                <td>0.60 mg</td>
+                                                </tr>
+                                                <tr>
+                                                <td>Vitamin B6</td>
+                                                <td>0.20 mg</td>
+                                                <td>0.02 mg</td>
+                                                </tr>
+                                                <tr>
+                                                <td>Vitamin B1</td>
+                                                <td>0.20 mg</td>
+                                                <td>0.02 mg</td>
+                                                </tr>
+                                                <tr>
+                                                <td>Vitamin B3</td>
+                                                <td>0.21 mg</td>
+                                                <td>0.02 mg</td>
+                                                </tr>
+                                                <tr>
+                                                <td>Vitamin A</td>
+                                                <td>819.2 mcg</td>
+                                                <td>81 mcg</td>
+                                                </tr>
+                                                <tr>
+                                                <td>Iodine </td>
+                                                <td>447.92 mcg</td>
+                                                <td>44 mcg</td>
+                                                </tr>
+                                                <tr>
+                                                <td>Copper </td>
+                                                <td>410.4 mcg</td>
+                                                <td>41 mcg</td>
+                                                </tr>
+                                                <tr>
+                                                <td>Folate </td>
+                                                <td>133.25 mcg</td>
+                                                <td>13 mcg</td>
+                                                </tr>
+                                                <tr>
+                                                <td>Biotin </td>
+                                                <td>10.25 mcg</td>
+                                                <td>1 mcg</td>
+                                                </tr>
+                                                <tr>
+                                                <td>Vitamin K3 </td>
+                                                <td>4.11 mcg</td>
+                                                <td>0.41 mcg</td>
+                                                </tr>
+                                                <tr>
+                                                <td>Molybdenum </td>
+                                                <td>4.10 mcg</td>
+                                                <td>0.41 mcg</td>
+                                                </tr>
+                                                <tr>
+                                                <td>Selenium </td>
+                                                <td>30.81 mcg</td>
+                                                <td>3 mcg</td>
+                                                </tr>
+                                                <tr>
+                                                <td>Vitamin D3 </td>
+                                                <td>20.52 mcg</td>
+                                                <td>2 mcg</td>
+                                                </tr>
+                                                <tr>
+                                                <td>Vitamin B12 </td>
+                                                <td>0.82 mcg</td>
+                                                <td>0.08 mcg</td>
+                                                </tr>
+                                                <tr>
+                                                <td>Chromium </td>
+                                                <td>0.41 mcg</td>
+                                                <td>0.04 mcg</td>
+                                                </tr>
+                                                <tr>
+                                                <td>Manganese </td>
+                                                <td>0.06 mcg</td>
+                                                <td>0.0006 mcg</td>
+                                                </tr>
+                                            </tbody>
                                             </table>
                                         </div>
                                     </div>
