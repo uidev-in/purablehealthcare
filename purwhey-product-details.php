@@ -152,27 +152,315 @@
                                 </div>
                                 </div>
                                 <div class="tab-pane fade" id="id-add" role="tabpanel" aria-labelledby="id-add-in">
-                                    <div class="additional-info">
+                                <div class="additional-info">
                                         <div class="table-responsive">
-                                            <h4>Additional information</h4>
-                                            <table class="table">
-                                                <tbody>
-                                                    <tr>
-                                                        <th>Weight</th>
-                                                        <td class="product_weight">1.4 oz</td>
-                                                    </tr>
-                                                    <tr>
-                                                        <th>Dimensions</th>
-                                                        <td class="product_dimensions">62 × 56 × 12 in</td>
-                                                    </tr>
-                                                    <tr>
-                                                        <th>Size</th>
-                                                        <td class="product_dimensions">XL, XXL, LG, SM, MD</td>
-                                                    </tr>
-                                                </tbody>
+                                         <h4>Nutritional Information per 100gm</h4>
+                                            <table class="table table table-bordered table-hover text-center">
+                                            <thead class="thead-dark">
+                                                <tr>
+                                                <th scope="col">Nutritional Facts</th>
+                                                <th scope="col">Unit</th>
+                                                <th scope="col">Per 100 g</th>
+                                                <th scope="col">Per 50 g</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr>
+                                                <td>Caloric Content</td>
+                                                <td>kcal/kjoulse</td>
+                                                <td>475/1989</td>
+                                                <td>238/997</td>
+                                                </tr>
+                                                <tr>
+                                                <td>Calories from fat</td>
+                                                <td>kcal/kjoulse</td>
+                                                <td>144/603</td>
+                                                <td>72/302</td>
+                                                </tr>
+                                                <!-- <tr>
+                                                    <td colspan="4" >Nutrients</td>
+                                                </tr>   -->
+                                                <tr>
+                                                <td>Total Carbohydrates</td>
+                                                <td>g</td>
+                                                <td>44.66</td>
+                                                <td>22.33</td>
+                                                </tr>
+                                                <tr>
+                                                <td>Sugar (sucrose)</td>
+                                                <td>g</td>
+                                                <td>0</td>
+                                                <td>0</td>
+                                                </tr>
+                                                <tr>
+                                                <td>Dietary Fibre</td>
+                                                <td>g</td>
+                                                <td>3</td>
+                                                <td>1.5</td>
+                                                </tr>
+                                                <tr>
+                                                <td>Fructooligosaccharide</td>
+                                                <td>g</td>
+                                                <td>3</td>
+                                                <td>1.5</td>
+                                                </tr>
+                                                <tr>
+                                                <td>Total Fat</td>
+                                                <td>g</td>
+                                                <td>15.98</td>
+                                                <td>7.99</td>
+                                                </tr>
+                                                <tr>
+                                                <td>Monounsaturated Fatty acid</td>
+                                                <td>g</td>
+                                                <td>1.25</td>
+                                                <td>0.625</td>
+                                                </tr>
+                                                <tr>
+                                                <td>Polyunsaturated Fatty acid</td>
+                                                <td>g</td>
+                                                <td>2.86</td>
+                                                <td>1.43</td>
+                                                </tr>
+                                                <tr>
+                                                <td>Linoleic acid (Omega 6 Fatty Acid)</td>
+                                                <td>g</td>
+                                                <td>2.78</td>
+                                                <td>1.39</td>
+                                                </tr>
+                                                <tr>
+                                                <td>Linoleic acid (Omega 3 Fatty Acid)</td>
+                                                <td>g</td>
+                                                <td>0.05</td>
+                                                <td>0.02</td>
+                                                </tr>
+                                                <tr>
+                                                <td>Saturated Fatty acid</td>
+                                                <td>g</td>
+                                                <td>11.73</td>
+                                                <td>5.87</td>
+                                                </tr>
+                                                <tr>
+                                                <td>Trans Fats</td>
+                                                <td>g</td>
+                                                <td>0</td>
+                                                <td>0</td>
+                                                </tr>
+                                                <tr>
+                                                <td>Cholesterol</td>
+                                                <td>mg</td>
+                                                <td>0</td>
+                                                <td>0</td>
+                                                </tr>
+                                                <tr>
+                                                <td>Protien</td>
+                                                <td>g</td>
+                                                <td>38</td>
+                                                <td>19</td>
+                                                </tr>
+                                                <tr>
+                                                <td>Leucine</td>
+                                                <td>mg</td>
+                                                <td>6.51</td>
+                                                <td>3.25</td>
+                                                </tr>
+                                                <tr>
+                                                <td>Isoleucine</td>
+                                                <td>mg</td>
+                                                <td>2.2</td>
+                                                <td>1.1</td>
+                                                </tr>
+                                                <tr>
+                                                <td>Valine</td>
+                                                <td>mg</td>
+                                                <td>17.22</td>
+                                                <td>8.61</td>
+                                                </tr>
+                                                <tr>
+                                                <td>Vitamin A</td>
+                                                <td>IU</td>
+                                                <td>1666.66</td>
+                                                <td>833.33</td>
+                                                </tr>
+                                                <tr>
+                                                <td>Vitamin B1</td>
+                                                <td>mg</td>
+                                                <td>0.66</td>
+                                                <td>0.33</td>
+                                                </tr>
+                                                <tr>
+                                                <td>Vitamin B2 </td>
+                                                <td>mg</td>
+                                                <td>0.72</td>
+                                                <td>0.36</td>
+                                                </tr>
+                                                <tr>
+                                                <td>Vitamin B6 </td>
+                                                <td>mg</td>
+                                                <td>0.94</td>
+                                                <td>0.47</td>
+                                                </tr>
+                                                <tr>
+                                                <td>Vitamin B12 </td>
+                                                <td>mcg</td>
+                                                <td>61.33</td>
+                                                <td>0.67</td>
+                                                </tr>
+                                                <tr>
+                                                <td>Vitamin C </td>
+                                                <td>mg</td>
+                                                <td>50</td>
+                                                <td>25</td>
+                                                </tr>
+                                                <tr>
+                                                <td>Vitamin D </td>
+                                                <td>IU</td>
+                                                <td>333.33</td>
+                                                <td>166.67</td>
+                                                </tr>
+                                                <tr>
+                                                <td>Vitamin E </td>
+                                                <td>IU</td>
+                                                <td>18.33</td>
+                                                <td>9.17</td>
+                                                </tr>
+                                                <tr>
+                                                <td>Vitamin K </td>
+                                                <td>mcg</td>
+                                                <td>66.66</td>
+                                                <td>33.33</td>
+                                                </tr>
+                                                <tr>
+                                                <td>Biotin </td>
+                                                <td>mcg</td>
+                                                <td>16.6</td>
+                                                <td>8.33</td>
+                                                </tr>
+                                                <tr>
+                                                <td>Choline </td>
+                                                <td>mg</td>
+                                                <td>70.37</td>
+                                                <td>35.19</td>
+                                                </tr>
+                                                <tr>
+                                                <td>Folic Acid </td>
+                                                <td>mcg</td>
+                                                <td>222.22</td>
+                                                <td>111.11</td>
+                                                </tr>
+                                                <tr>
+                                                <td>Niacinamide </td>
+                                                <td>mg</td>
+                                                <td>8.88</td>
+                                                <td>4.44</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>Pantothenic Acid</td>
+                                                    <td>mg</td>
+                                                    <td>2.77</td>
+                                                    <td>1.39</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>Calcium</td>
+                                                    <td>mg</td>
+                                                    <td>263.88</td>
+                                                    <td>131.94</td>
+                                                </tr>
+                                                <tr>
+                                                <td>Magnesium</td>
+                                                <td>mg</td>
+                                                <td>233.33</td>
+                                                <td>116.67</td>
+                                                </tr>
+
+                                                <tr>
+                                                <td>Potassium</td>
+                                                <td>mg</td>
+                                                <td>217.59</td>
+                                                <td>108.81</td>
+                                                </tr>
+                                                <tr>
+                                                <td>Chloride</td>
+                                                <td>mg</td>
+                                                <td>200</td>
+                                                <td>100</td>
+                                                </tr>
+                                                <tr>
+                                                <td>Phophorus</td>
+                                                <td>mg</td>
+                                                <td>131.94</td>
+                                                <td>65.97</td>
+                                                </tr>
+                                                <tr>
+                                                <td>Sodium</td>
+                                                <td>mg</td>
+                                                <td>129.62</td>
+                                                <td>64.81</td>
+                                                </tr>
+                                                <tr>
+                                                <td>Iron</td>
+                                                <td>mg</td>
+                                                <td>10</td>
+                                                <td>5</td>
+                                                </tr>
+                                                <tr>
+                                                <td>Zinc</td>
+                                                <td>mg</td>
+                                                <td>6.11</td>
+                                                <td>3.06</td>
+                                                </tr>
+                                                <tr>
+                                                <td>Manganese</td>
+                                                <td>mg</td>
+                                                <td>1.27</td>
+                                                <td>0.64</td>
+                                                </tr>
+                                                <tr>
+                                                <td>Copper</td>
+                                                <td>mg</td>
+                                                <td>0.5</td>
+                                                <td>0.25</td>
+                                                </tr>
+                                                <tr>
+                                                <td>Iodine</td>
+                                                <td>mcg</td>
+                                                <td>83.33</td>
+                                                <td>41.67</td>
+                                                </tr>
+                                                <tr>
+                                                <td>Selenium</td>
+                                                <td>mcg</td>
+                                                <td>30.55</td>
+                                                <td>15.28</td>
+                                                </tr>
+                                                <tr>
+                                                <td>Iolybdenum</td>
+                                                <td>mcg</td>
+                                                <td>25</td>
+                                                <td>12.50</td>
+                                                </tr>
+                                                <tr>
+                                                <td>Chromium</td>
+                                                <td>mcg</td>
+                                                <td>19.44</td>
+                                                <td>9.72</td>
+                                                </tr>
+                                                <tr>
+                                                <td>L-Carnitine</td>
+                                                <td>mg</td>
+                                                <td>46.29</td>
+                                                <td>23.15</td>
+                                                </tr>
+                                                <tr>
+                                                <td>L-Taurine</td>
+                                                <td>mg</td>
+                                                <td>46.29</td>
+                                                <td>23.15</td>
+                                                </tr>
+                                            </tbody>
                                             </table>
                                         </div>
-                                    </div>
+                                    </div>  
                                 </div>
                             </div>
                         </div>

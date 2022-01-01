@@ -56,8 +56,9 @@
                                 </div>
                                
                                 <div class="second-services-content">
-                                    <h5>FREE SHIPPING</h5>       
-                                    <!-- <p>Bliquam euismod neque vel leo pellentesque</p> -->
+                                    <h5>Our Establishment</h5>       
+                                    <p class="text-left"><b>Purable Healthcare</b> established on 19th Feb, 2021.</p> 
+                                    <p class="text-left"><b>Purable Healthcare</b> is gearing up to make a big impact in the Nutraceutical Industry with innovative nutraceutical and wellness product for patient and Doctors as well.</p> <br/><br/> 
                                 </div>
 								
                             </div>
@@ -69,8 +70,8 @@
                                 </div>
                                
                                 <div class="second-services-content">
-                                    <h5>money back guarantee</h5>       
-                                    <!-- <p>Bliquam euismod neque vel leo pellentesque</p> -->
+                                    <h5>Our Mission</h5>       
+                                    <p class="text-left">Our one & only mission is to become a core company in world's nutrition as we care more for the overall quality of health through good eating habits & good nutritional Products. We are producing the best nutritional products to every age of a person to increase the metabolism and nutritional value in their body.</p>
                                 </div>
 								
                             </div>
@@ -81,8 +82,8 @@
                                  <i class="fal fa-badge-percent"></i>
                                 </div>
                                  <div class="second-services-content">
-                                    <h5>gift discount</h5>       
-                                    <!-- <p>Bliquam euismod neque vel leo pellentesque</p> -->
+                                    <h5>Our Vision</h5>       
+                                    <p class="text-left">Our vision is to be a leading new generation evidence based Nutraceutical Company in pan India and significant leading player by providing innovative effective and International standard quality Products at affordable price.</p><br/><br/>
                                 </div>
 								
                             </div>
