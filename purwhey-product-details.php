@@ -140,7 +140,7 @@
                                     <div class="event-text mb-40">
                                     <ul style="line-height:28px;">
                                         <li>» HBV (High Biological Protien) Goal of Nutrition Support Therapy is to provide maximum calorie and protein in minimum volume</li>
-                                        <li>» 38% HBV fullfils incresed protein requirements 1.2g to 2.0g/kg/BW/day. Prevents loss of lean body mass</li>
+                                        <li>» 40% HBV fullfils incresed protein requirements 1.2g to 2.0g/kg/BW/day. Prevents loss of lean body mass</li>
                                         <li>» Branched chain amino acid helps in maintaing positive balance</li>
                                         <li>» MCT an ideal source of instant energy</li>
                                         <li>» FOS is to promote the growth of beneficial bacteria to support got health </li>
@@ -167,15 +167,15 @@
                                             <tbody>
                                                 <tr>
                                                 <td>Caloric Content</td>
-                                                <td>kcal/kjoulse</td>
-                                                <td>475/1989</td>
-                                                <td>238/997</td>
+                                                <td>kcal/kjoules</td>
+                                                <td>482/2017</td>
+                                                <td>241/1008</td>
                                                 </tr>
                                                 <tr>
                                                 <td>Calories from fat</td>
-                                                <td>kcal/kjoulse</td>
-                                                <td>144/603</td>
-                                                <td>72/302</td>
+                                                <td>kcal/kjoules</td>
+                                                <td>148/619</td>
+                                                <td>74/310</td>
                                                 </tr>
                                                 <!-- <tr>
                                                     <td colspan="4" >Nutrients</td>
@@ -183,8 +183,8 @@
                                                 <tr>
                                                 <td>Total Carbohydrates</td>
                                                 <td>g</td>
-                                                <td>44.66</td>
-                                                <td>22.33</td>
+                                                <td>43.66</td>
+                                                <td>21.83</td>
                                                 </tr>
                                                 <tr>
                                                 <td>Sugar (sucrose)</td>
@@ -205,28 +205,34 @@
                                                 <td>1.5</td>
                                                 </tr>
                                                 <tr>
+                                                <td>MCT</td>
+                                                <td>g</td>
+                                                <td>1.64</td>
+                                                <td>0.82</td>
+                                                </tr>
+                                                <tr>
                                                 <td>Total Fat</td>
                                                 <td>g</td>
-                                                <td>15.98</td>
-                                                <td>7.99</td>
+                                                <td>16.44</td>
+                                                <td>8.22</td>
                                                 </tr>
                                                 <tr>
                                                 <td>Monounsaturated Fatty acid</td>
                                                 <td>g</td>
-                                                <td>1.25</td>
-                                                <td>0.625</td>
+                                                <td>1.28</td>
+                                                <td>0.664</td>
                                                 </tr>
                                                 <tr>
                                                 <td>Polyunsaturated Fatty acid</td>
                                                 <td>g</td>
-                                                <td>2.86</td>
-                                                <td>1.43</td>
+                                                <td>2.94</td>
+                                                <td>1.47</td>
                                                 </tr>
                                                 <tr>
                                                 <td>Linoleic acid (Omega 6 Fatty Acid)</td>
                                                 <td>g</td>
-                                                <td>2.78</td>
-                                                <td>1.39</td>
+                                                <td>2.86</td>
+                                                <td>1.43</td>
                                                 </tr>
                                                 <tr>
                                                 <td>Linoleic acid (Omega 3 Fatty Acid)</td>
@@ -237,8 +243,8 @@
                                                 <tr>
                                                 <td>Saturated Fatty acid</td>
                                                 <td>g</td>
-                                                <td>11.73</td>
-                                                <td>5.87</td>
+                                                <td>12.06</td>
+                                                <td>6.03</td>
                                                 </tr>
                                                 <tr>
                                                 <td>Trans Fats</td>
@@ -253,10 +259,16 @@
                                                 <td>0</td>
                                                 </tr>
                                                 <tr>
+                                                <td>Probiotic (Lactobacillus Acidophillus)</td>
+                                                <td>billion</td>
+                                                <td>5</td>
+                                                <td>2.5</td>
+                                                </tr>
+                                                <tr>
                                                 <td>Protien</td>
                                                 <td>g</td>
-                                                <td>38</td>
-                                                <td>19</td>
+                                                <td>40</td>
+                                                <td>20</td>
                                                 </tr>
                                                 <tr>
                                                 <td>Leucine</td>
@@ -434,7 +446,7 @@
                                                 <td>15.28</td>
                                                 </tr>
                                                 <tr>
-                                                <td>Iolybdenum</td>
+                                                <td>Molybdenum</td>
                                                 <td>mcg</td>
                                                 <td>25</td>
                                                 <td>12.50</td>
