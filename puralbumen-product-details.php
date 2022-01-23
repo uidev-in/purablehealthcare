@@ -103,7 +103,7 @@
                                 <ul style="line-height:28px;">
                                     <li><i class="fas fa-check text-success mr-2"></i>Hypoalbuminemia</li>
                                     <li><i class="fas fa-check text-success mr-2"></i>Liver Cirrhosis</li>
-                                    <li><i class="fas fa-check text-success mr-2"></i>Tissue repair conditons</li>
+                                    <li><i class="fas fa-check text-success mr-2"></i>Tissue repair conditions</li>
                                     <li><i class="fas fa-check text-success mr-2"></i>Cancer</li>
                                     <li><i class="fas fa-check text-success mr-2"></i>Cachexia</li>
                                     <li><i class="fas fa-check text-success mr-2"></i>COPD</li>
@@ -142,8 +142,8 @@
                                     <div class="event-text mb-40">
                                     <ul style="line-height:28px;">
                                     <li>» 65% High Biological value albumen Protein to increase serum albumin level</li>
-                                    <li>» Glutamine and Arginine helps boot immunity and prevents secondary infection</li>
-                                    <li>» DHA &amp; helps in reducing  inflammation and brain development</li>
+                                    <li>» Glutamine and Arginine helps boost immunity and prevents secondary infection</li>
+                                    <li>» DHA helps in reducing  inflammation and brain development</li>
                                     <li>» Mixed Carotenoids and Lycopene Powerful antioxidant scanvenge free radicals</li>
                                     <li>» Vitamins and Minerals fullfill increased nutritional need and reduces fatigue</li>
                                     <li>» Fullfills in protein requirements from 1.2g to 1.5g/kg/BW/day</li>

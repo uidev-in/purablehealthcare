@@ -107,7 +107,7 @@
                                     <li><i class="fas fa-check text-success mr-2"></i>Multiple Food Allergy</li>
                                     <li><i class="fas fa-check text-success mr-2"></i>Celiac Disease</li>
                                     <li><i class="fas fa-check text-success mr-2"></i>Short Bowel Syndrome</li>
-                                    <li><i class="fas fa-check text-success mr-2"></i>Diarrhoea of any etiolgy</li>
+                                    <li><i class="fas fa-check text-success mr-2"></i>Diarrhoea of any etiology</li>
                                     <li><i class="fas fa-check text-success mr-2"></i>Weight gain in LBW and Premature Babies</li>
                                     <li><i class="fas fa-check text-success mr-2"></i>GI tract surgery</li>
                                 </ul>
@@ -141,8 +141,8 @@
                                     <div class="event-text mb-40">
                                     <ul style="line-height:28px;">
                                         <li>» Contains Predigested chicken powder hence gentle on neo GI System Chicken protein supports faster weight gain</li>
-                                        <li>» Hypo allergenic : Lactose free, gluten free and surcose free. Does not cause complications</li>
-                                        <li>» Hypo osmolar : osmolality 70 mosm/kg H2O thus increase butrient absorption in blood</li>
+                                        <li>» Hypo allergenic : Lactose free, gluten free and sucrose  free. Does not cause complications</li>
+                                        <li>» Hypo osmolar : osmolality 70 mosm/kg H2O thus increase nutrient absorption in blood</li>
                                         <li>» Vitamins and Minerals fullfill increased nutrients requirement</li>
                                         <li>» Choline helps proper Brain Developments</li>
                                         <li>» Energy rich support normal growth : Maltodextrin, Pre cooked starch and coconut Powder (MCT)</li>

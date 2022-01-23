@@ -141,9 +141,9 @@
                                     <ul style="line-height:28px;">
                                         <li>» HBV (High Biological Protien) Goal of Nutrition Support Therapy is to provide maximum calorie and protein in minimum volume</li>
                                         <li>» 40% HBV fullfils incresed protein requirements 1.2g to 2.0g/kg/BW/day. Prevents loss of lean body mass</li>
-                                        <li>» Branched chain amino acid helps in maintaing positive balance</li>
+                                        <li>» Branched chain amino acid helps in maintaining positive balance</li>
                                         <li>» MCT an ideal source of instant energy</li>
-                                        <li>» FOS is to promote the growth of beneficial bacteria to support got health </li>
+                                        <li>» FOS is to promote the growth of beneficial bacteria to support good health </li>
                                         <li>» Vitamins and Minerals speed up recovery and fullfills increased nutritional needs</li>
                                         <li>» Low GI Carbohydrate is safe for diabetic patients</li>
                                         <li>» Purwhey is free from Trans fat, Cholesterol, Lactose and Gluten</li>
